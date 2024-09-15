@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://abdullah007-portfolio.netlify.app/)
-<h1 align="center">Hi 👋, I'm Abdullah mehmood</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Sheikh</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah7sheikh&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah7sheikh" /> </p>
